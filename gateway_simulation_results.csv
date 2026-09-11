@@ -1,0 +1,41 @@
+model,run,macro_f1,latency_ms,incremental_power_mw,model_memory_mb
+Logistic regression,1,0.9032,0.422,2.06,1.71
+Logistic regression,2,0.9057,0.429,2.0,1.74
+Logistic regression,3,0.9059,0.465,2.1,1.67
+Logistic regression,4,0.8986,0.459,1.95,1.58
+Logistic regression,5,0.8972,0.442,2.08,1.62
+Logistic regression,6,0.8932,0.454,2.1,1.59
+Logistic regression,7,0.9063,0.478,2.19,1.76
+Logistic regression,8,0.9071,0.445,2.13,1.69
+Logistic regression,9,0.9024,0.465,2.17,1.79
+Logistic regression,10,0.8995,0.461,2.03,1.64
+Random forest,1,0.9529,1.823,17.87,12.19
+Random forest,2,0.9594,1.99,18.03,12.42
+Random forest,3,0.9522,1.804,18.7,13.68
+Random forest,4,0.9586,1.737,19.09,12.58
+Random forest,5,0.9571,1.958,17.48,12.68
+Random forest,6,0.9544,1.989,18.49,12.88
+Random forest,7,0.9581,1.752,16.91,11.78
+Random forest,8,0.9534,1.826,17.9,12.73
+Random forest,9,0.9607,1.738,17.96,11.7
+Random forest,10,0.9566,1.959,16.49,12.78
+Static TinyML,1,0.9486,0.649,4.78,3.62
+Static TinyML,2,0.9464,0.65,4.95,3.63
+Static TinyML,3,0.9444,0.674,4.88,3.62
+Static TinyML,4,0.9506,0.757,5.02,3.6
+Static TinyML,5,0.9437,0.759,4.78,3.63
+Static TinyML,6,0.9486,0.754,5.32,3.85
+Static TinyML,7,0.9409,0.72,4.77,3.82
+Static TinyML,8,0.9453,0.754,4.97,3.51
+Static TinyML,9,0.9494,0.735,4.87,3.49
+Static TinyML,10,0.9444,0.71,4.98,3.55
+Proposed adaptive cascade,1,0.9693,0.825,6.51,4.46
+Proposed adaptive cascade,2,0.964,0.8,5.72,4.15
+Proposed adaptive cascade,3,0.9674,0.834,6.46,4.53
+Proposed adaptive cascade,4,0.9655,0.85,6.62,4.39
+Proposed adaptive cascade,5,0.9728,0.835,6.93,4.24
+Proposed adaptive cascade,6,0.965,0.809,6.06,4.37
+Proposed adaptive cascade,7,0.9657,0.773,6.34,4.37
+Proposed adaptive cascade,8,0.9612,0.778,6.02,4.7
+Proposed adaptive cascade,9,0.9598,0.894,6.38,4.31
+Proposed adaptive cascade,10,0.9617,0.869,6.29,4.65
